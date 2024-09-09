@@ -11,8 +11,8 @@ then it was successful.
 
 ## Clone the repository
 ```shell
-git clone https://github.com/Joewizyskills/foundry-defi-stablecoin
-cd foundry-defi-stablecoin
+git clone https://github.com/Joewizy/Decentralized-Stablecoin-Contract
+cd Decentralized-Stablecoin-Contractfoundry-defi-stablecoin
 forge build
 ```
 ## Test
