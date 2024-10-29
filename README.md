@@ -31,7 +31,7 @@ To view detailed test coverage reports for your contracts
 $ make anvil
 ```
 ### Deploy
-By default, your local node will be used here. For it to deploy, it must be running in a separate terminal.
+By default, your local node will be used here. For it to deploy, anvil must be running in a separate terminal.
 ```shell
 $ make deploy
 ```
